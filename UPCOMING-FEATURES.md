@@ -17,6 +17,8 @@
     - Functional query building
     - Arguments
 - Queues
+- Oberservables
+- Promises
 - Pipes
 
 ## PSR
